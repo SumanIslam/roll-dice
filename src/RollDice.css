@@ -1,0 +1,17 @@
+.RollDice-btn {
+  display: block;
+  margin: auto;
+  padding: 1.2rem 4rem;
+  background-color: black;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  margin-top: 2rem;
+  transition: all 0.2s ease-in;
+}
+.RollDice-btn:hover {
+  background-color: #087ae4;
+}
+.RollDice-btn:focus{
+  outline: none;
+}
